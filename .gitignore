@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+*.json
+*.jsonl
+*.mp4
+*.avi
+*.mov
+.pytest_cache/
+Store 1-20260602T101818Z-3-001ec38db8/
+Store 2-20260602T101819Z-3-001099f208/
+yolov8n.pt
