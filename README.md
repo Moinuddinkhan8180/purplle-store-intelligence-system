@@ -342,6 +342,14 @@ All generated code and recommendations were manually reviewed, validated, and mo
 
 ![Metrics](screenshots/metrics.png)
 
+### Heatmap Endpoint
+
+![Heatmap](screenshots/heatmap.png)
+
+### Funnel Endpoint
+
+![Funnel](screenshots/funnel.png)
+
 ### Test Results
 
 ![Tests](screenshots/tests.png)
