@@ -358,6 +358,10 @@ All generated code and recommendations were manually reviewed, validated, and mo
 
 ![Events](screenshots/events.png)
 
+### Dashboard Output
+
+![Dashboard](screenshots/dashboard.png)
+
 
 # Author
 
