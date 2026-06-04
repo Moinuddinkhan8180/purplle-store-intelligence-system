@@ -3,7 +3,6 @@ __pycache__/
 *.pyc
 *.db
 *.json
-*.jsonl
 *.mp4
 *.avi
 *.mov
